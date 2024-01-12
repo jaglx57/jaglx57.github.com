@@ -48,7 +48,7 @@ links.forEach(function(link){
         //Funciona para darle un tiempo a la animacion y procesamiento de la accion
         setTimeout(function(){
             //Para redireccionar de pagina 
-            location.href="/boletines";
+            location.href="/boletines/Index.html";
         },600);
         return false;
     })
