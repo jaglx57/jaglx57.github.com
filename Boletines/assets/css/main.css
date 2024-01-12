@@ -62,16 +62,18 @@ a:focus{
     padding: 1em;
 }
 td{
+    display: table-cell;
     display: block;
     width: 100%;
 }
 td:nth-of-type(1){
+    
     font-size: 1.5em;
     font-weight: bold;
     color: #2aaff1;
 }
 td{
-    display: none;
+    display: table-cell;
 }
 
 
